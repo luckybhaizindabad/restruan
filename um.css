@@ -1,0 +1,37 @@
+.box {
+    float: right;
+    width: 900px;
+    height: 600px;
+    position: relative;
+}
+.sameline{
+    display: inline-block;
+}
+#left {
+    margin-left: 250px;
+}
+#right {
+    margin-left: 250px;
+}
+#center {
+    margin-left: 250px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+img {
+    width: 900px;
+    height: 600px;
+    float: right;
+}
+body {
+    background: url(./volkan-vardar-1H30uRC1plc-unsplash.jpg)no-repeat;
+    background-size: 900px 600px;
+    background-position: right;
+}
+.center {
+    text-align: center;
+    color: white;
+    
+}
